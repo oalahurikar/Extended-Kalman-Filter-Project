@@ -1,4 +1,4 @@
-# Extended Kalman Filter Project Starter Code
+# Extended Kalman Filter Project
 In this project designed Kalman filter to estimate the position (px,py) and velocity (vx,vy) of moving pedestrian in 2D using lidar and radar sensor. Extended Kalman Filter is a recursive 2 step process which involve state prediction and measurement update.
 
 Following print screen is result of my extended kalman filter model. px, py, vx, and vy RMSE comes well below the values [.11, .11, 0.52, 0.52] listed in project requirement.
